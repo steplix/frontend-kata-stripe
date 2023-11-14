@@ -29,8 +29,7 @@ const Home: NextPage = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis consequuntur,
               dolores, deleniti ipsam iure blanditiis eum quam cum distinctio quidem quis amet ut
               voluptatem dolorum nisi! Esse inventore molestiae doloremque neque, sequi sunt cum
-              temporibus ipsam aliquid totam distinctio deleniti? Esse quod fugit velit vitae.
-              Dolorem odit quibusdam ipsum libero!
+              temporibus ipsam aliquid totam distinctio deleniti? Esse quod fugit velit vitae!
             </p>
           </article>
         </section>
